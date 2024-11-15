@@ -16,6 +16,6 @@ I strive to learn something new. So far, I've been hooked on programming in diff
 - Python
 - C++
 
-## **SEducation**
+## **Seducation**
 
 University: Tver State University, Master's degree in Physics
