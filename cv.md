@@ -12,13 +12,13 @@ As it was said in the song "If he suffers for a long time"
 > "If he suffers for a long time, something will work out"
 
 ## **Skills**
-    - HTML
-    - CSS/SASS
-    - JavaScript (Basic)
-    - Git 
-    - Python
-    - C++
+- HTML
+- CSS/SASS
+- JavaScript (Basic)
+- Git 
+- Python
+- C++
 
-## **SEducation**
+## **Seducation**
 
 University: Tver State University, Master's degree in Physics
