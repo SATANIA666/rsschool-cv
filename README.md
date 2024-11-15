@@ -1,1 +1,1 @@
-https://SATANIA666.github.io/rsschool-cv/SATANIA666rsschool-cv-html
+https://SATANIA666.github.io/rsschool-cv/
