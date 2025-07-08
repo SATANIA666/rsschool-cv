@@ -1,4 +1,4 @@
-## __Elena Lavrova
+## Elena Lavrova
 #### Contacts
   * Phone: + 7 999 111 22 33
   * Telegram: lav_lena
